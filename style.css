@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#title{
+    height: 150px;
+    width: 400px;
+    margin-top: 20px;
+}
+#board{
+    height: 400px;
+    width: 400px;
+    align-content: center;
+    margin-top: 40px;
+    background-color: skyblue;
+    border: 10px solid rgb(25, 86, 253);
+}
+#board img{
+    width: 125px;
+    height: 125px;
+    border: 1px solid blue;
+}
+
+footer{
+    margin-top: 30px;
+}
